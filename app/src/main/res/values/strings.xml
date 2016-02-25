@@ -6,5 +6,9 @@
         <item>Read</item>
         <item>Help</item>
     </string-array>
+    <string name="title_activity_dice_roll">DiceRollActivity</string>
+    <string name="title_activity_nav_base">NavBase</string>
+    <string name = "drawer_open">Drawer Opened</string>
+    <string name = "drawer_close">Drawer Closed</string>
 
 </resources>
