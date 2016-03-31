@@ -68,7 +68,6 @@ public class DiceRollActivity extends NavBase {
                 textView.setTextSize(20);
                 textView.setGravity(Gravity.CENTER_HORIZONTAL);
 
-
             }
         });
 
